@@ -22,7 +22,7 @@ public class MotorBike {
     }
 
     void Start() {
-        System.out.println("Bike Start");
+        System.out.println("Bike Started");
     }
 
     public void increaseSpeed(int howMuch) {
